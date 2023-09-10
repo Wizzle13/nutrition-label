@@ -31,7 +31,8 @@ In this course, you'll use typography to build a nutrition label webpage. You'll
    
  ## Tools and Languages
  ### Frontend
-![None](https://img.shields.io/badge/None-blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 
 
  ### Backend
@@ -40,7 +41,8 @@ In this course, you'll use typography to build a nutrition label webpage. You'll
  ![None](https://img.shields.io/badge/None-blue)
  ### Tools
  
- ![None](https://img.shields.io/badge/None-blue)
+![Github](https://img.shields.io/badge/GitHub-100000?plastic&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?plastic&logo=visualstudiocode&logoColor=white)
 
  ### Dependences
 ![None](https://img.shields.io/badge/None-blue)
